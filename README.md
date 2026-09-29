@@ -1,22 +1,18 @@
-# Abhishek Dangi — Portfolio
+# Abhi Dangi portfolio
 
-Public portfolio site, separate from Dairy Hisab.
+Single-page portfolio (Cybersecurity & GRC). Source is `dist/index.html`.
 
-## Live URL (after Pages is enabled)
+## Live
 
 https://abhi3211.github.io/portfolio/
 
-## Local
+## Local preview
 
 ```bash
-npm install
-npm run dev
+cd dist
+python3 -m http.server 8000
 ```
 
-## Deploy
+Open http://localhost:8000
 
-Pushes to `main` build and deploy via GitHub Actions → GitHub Pages.
-
-One-time setup on GitHub:
-1. Repo **Settings → Pages**
-2. Source: **GitHub Actions**
+Pushes to `main` deploy via GitHub Actions → Pages.
