@@ -1,6 +1,6 @@
 # Abhi Dangi portfolio
 
-Single-page portfolio (Cybersecurity & GRC). Source is `dist/index.html`.
+Single-page portfolio (Cybersecurity & GRC). Expanded edition — source is `dist/index.html`.
 
 ## Live
 
